@@ -42,7 +42,9 @@ The ultimate goal of Zork v1 is to collect the 6 Treasures of Zork and install t
   
 Please see [contributing guidelines](CONTRIBUTING.md) before reporting an issue.
   
+## Instructions:
 
+See [Instructions](INSTRUCTIONS.md).
 
 ## Installation:
 
@@ -60,4 +62,4 @@ Please see [contributing guidelines](CONTRIBUTING.md) before reporting an issue.
 ## Contributing:
 
 
-See [Contributing](CONTRIBUTING.md)
+See [Contributing](CONTRIBUTING.md).
