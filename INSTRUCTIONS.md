@@ -46,9 +46,9 @@ ranks you assign, other than when a dungeon is started from scratch, the player'
 must initially be zero. A player's score must be persisted and hydrated in the .sav file in some way (your
 choice).
 
-<code>> score You have accumulated 25 points. This gives you a rank of Amateur
-Adventurer. ></code>
-
+~~~~
+> score You have accumulated 25 points. This gives you a rank of Amateur Adventurer. 
+~~~~
 
 
 - **Health**
@@ -60,14 +60,15 @@ than when a dungeon is started from scratch, the player must initially be in goo
 health. A player's health must be persisted and hydrated in the <code>.sav</code> file in some way (your
 choice).
 
-<code>> health You feel fit as a fiddle.</code><br>
-...other commands...<br>
-<code>> health You're a bit light-headed.</code><br>
-...other commands...<br>
-<code>> health Each step is a stagger from the pain of your wounds.</code><br>
-...other commands...<br>
-<code>> health You are about to die.</code>
-
+~~~~
+> health You feel fit as a fiddle.
+...other commands...
+> health You're a bit light-headed.
+...other commands...
+> health Each step is a stagger from the pain of your wounds.
+...other commands...
+> health You are about to die.
+~~~~
 
 
 
