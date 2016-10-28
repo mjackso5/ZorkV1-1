@@ -11,5 +11,5 @@ I used Kelly's branch in the examples below.
 0. Make your **changes**.
 0. **Commit** your changes (`git commit -am "Updated CONTRIBUTING.md file"`)
 0. **Push** to the branch (`git push origin Kelly`)
-0. Open a **Pull Request**. Ensure `base:`**master** `...` `compare:`**Kelly** and "Able to merge" is green with a check mark. Enter your merge comments and click the green button "Create pull request".
+0. Open a **Pull Request**. Ensure it says "base:**master** ... compare:**Kelly**" and "Able to merge" is green with a check mark. Enter your merge comments and click the green button "Create pull request". This is a request for the 240ZorkGroup to reach down and *pull* those changes into our main project.
 0. Wait (or since we are all admins for the group, **Merge** the pull request yourself _**in the 240ZorkGroup**_).
