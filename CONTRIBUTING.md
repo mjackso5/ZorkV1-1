@@ -4,6 +4,8 @@
 
 You do not need to use the command line, but I have included the commands in case you'd prefer that route.
 
+I used Kelly's branch in the examples below.
+
 0. No need to **Fork** it since we're all members of the 240ZorkGroup group.
 0. Create a **branch** (`git checkout -b Kelly`). I've already made 3 individual branches for each of us. Just select yours from the pull-down menu towards the left of the column. 
 0. Make your **changes**.
